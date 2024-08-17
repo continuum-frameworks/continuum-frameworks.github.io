@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontinuum_css_docs=self.webpackChunkcontinuum_css_docs||[]).push([[72681],{96049:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/continuum-css/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

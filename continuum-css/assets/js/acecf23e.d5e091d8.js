@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontinuum_css_docs=self.webpackChunkcontinuum_css_docs||[]).push([[81903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/continuum-css/blog","blogTitle":"Blog","authorsListPath":"/continuum-css/blog/authors"}')}}]);

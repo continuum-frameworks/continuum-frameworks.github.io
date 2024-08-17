@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Continuum CSS Blog</title>
+        <link>https://continuum-frameworks.github.io/continuum-css/blog</link>
+        <description>Continuum CSS Blog</description>
+        <lastBuildDate>Fri, 16 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://continuum-frameworks.github.io/continuum-css/blog/welcome</link>
+            <guid>https://continuum-frameworks.github.io/continuum-css/blog/welcome</guid>
+            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome blog summary goes here...]]></description>
+            <content:encoded><![CDATA[<p>Welcome blog summary goes here...</p>
+<p>Welcome blog itself goes here...</p>]]></content:encoded>
+            <category>Welcome</category>
+            <category>Michael</category>
+        </item>
+    </channel>
+</rss>
