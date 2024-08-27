@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcontinuum_css_docs=self.webpackChunkcontinuum_css_docs||[]).push([[89583],{72237:a=>{a.exports=JSON.parse('{"authors":[{"name":"Michael K Macharia","title":"Creator of Continuum CSS","url":"https://github.com/michaelkmacharia","imageURL":"https://github.com/michaelkmacharia.png","key":"michael","page":null,"count":1}]}')}}]);
